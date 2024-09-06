@@ -1,0 +1,28 @@
+1주차 수업내용
+제어판>프포그램 삭제>git제거>탐색기>c드라이브>programfiles>git제거
+제어판 >자격증명관리>윈도우즈 자격증명>github계정밎 패스워드 제거
+
+-윈도우 시스템 git bash설치git-scm.xom
+
+-깃/깃허브 시포 명령어
+*git init:현재 폴더를 깃이 관리하는 폴더로 만든다
+*git status: 현재 깃이 관리하는 폴더의 상태(여러가지 변화)를 보여준다
+*git add 파일명:깃의 특정 파일을 스테이지에 올린다
+*git commit -m"남길 메세지":로컬리포지토리에 커밋 기록을 남긴다
+(처을 사용하는 시스템에서는 사용자 아이디와 이메일을 등록하는 안내가 나온다)
+git config --global user.name "아이디"
+git config --global user .email"아이디@이메일컴"
+*git log:현재 로컬 리포지토리에 저장된 커밋 기록을 보여준다
+*git branch-M main:브랜치를 main 브랜치로 변경(기본 브랜치느 master.
+masters는 노예제도를 연상시킨다는 의견에 따라 main으로 쓰는 추세)
+
+-깃허브 계정 등록(미등록 핫생만)
+*원격 리포지토리 생성
+*로컬 리포지토리와 원격 리포토리지를 연결(origin)
+
+
+-리눅스 기초 명령어
+*ls 폴더 보기(-a 업션 추가시 숨김 파일 보기)
+*touch 파일명 : 파일명 빈 파일이 현재 폴더에 생성
+*cat week01.txt : week01.txt 파일에 있는 내용들을 bash에 출력
+*clear :쉘 화면 스와이프
