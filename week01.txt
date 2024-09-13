@@ -15,6 +15,7 @@ git config --global user .email"아이디@이메일컴"
 *git log:현재 로컬 리포지토리에 저장된 커밋 기록을 보여준다
 *git branch-M main:브랜치를 main 브랜치로 변경(기본 브랜치느 master.
 masters는 노예제도를 연상시킨다는 의견에 따라 main으로 쓰는 추세)
+git push : 깃에 올라감
 
 -깃허브 계정 등록(미등록 핫생만)
 *원격 리포지토리 생성
